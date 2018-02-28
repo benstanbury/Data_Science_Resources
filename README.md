@@ -1,13 +1,14 @@
 # Data Science Resources
 
 ## Best free courses
-[Jeremy Howard](http://www.fast.ai/)
 
-[Andrew Ng](https://www.coursera.org/learn/machine-learning)
+[Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+
+[Jeremy Howard Fast.ai](http://www.fast.ai/)
 
 [Stanford Neural Networks](http://cs231n.stanford.edu/)
 
-[Jurafsjy and Manning](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
+[Jurafsky and Manning](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
 
 ## Pay courses
 
