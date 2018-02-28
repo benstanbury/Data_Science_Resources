@@ -23,4 +23,4 @@
 [Medium](https://medium.com/topic/data-science)
 
 ## Competition
-[Kaggle](https://www.kaggle.com/
+[Kaggle](https://www.kaggle.com/)
