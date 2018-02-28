@@ -1,6 +1,6 @@
 # Data Science Resources
 
-## Best Free AI courses
+## Best free courses
 [Jeremy Howard](http://www.fast.ai/)
 
 [Andrew Ng](https://www.coursera.org/learn/machine-learning)
@@ -9,6 +9,6 @@
 
 [Jurafsjy and Manning](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
 
-##Pay Courses
+# # Pay Courses
 
-(Python for Data Science Bootcamp)[https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/]
+[Python for Data Science Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/])
