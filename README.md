@@ -9,7 +9,7 @@
 
 [Jurafsjy and Manning](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
 
-## Pay Courses
+## Pay courses
 
 [Python for Data Science Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/])
 
@@ -19,4 +19,7 @@
 
 [Towards Data Science](https://towardsdatascience.com/)
 
-[Medium](https://medium.com/topic/data-science_
+[Medium](https://medium.com/topic/data-science)
+
+## Competition
+[Kaggle](https://www.kaggle.com/
