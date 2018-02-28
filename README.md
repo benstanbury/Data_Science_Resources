@@ -16,5 +16,7 @@
 ## Blogs
 
 [Machine Learning Mastery](https://machinelearningmastery.com/)
+
 [Towards Data Science](https://towardsdatascience.com/)
+
 [Medium](https://medium.com/topic/data-science_
