@@ -1,4 +1,4 @@
-# Data Science Resources
+# Useful Data Science Resources
 
 ## Best free courses
 
