@@ -33,7 +33,10 @@
 
 ### R
 [Data Wrangling](https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+
 [Strings](https://github.com/rstudio/rstudio/cheatsheets/raw/master/strings.pdf)
+
 [Functions](https://github.com/rstudio/rstudio/cheatsheets/raw/master/purrr.pdf)
+
 [RShiny](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
 
